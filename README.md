@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Harley Ferreira &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harley-ferreira-93532a15b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@harlley.fs) 
+# 👋 Hi there, I’m Harley Ferreira &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harley-ferreira-93532a15b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@harlley.fs) 
 
 🧑‍💻 I'm a Mechatronics Engineer and Software Developer<br>🌱 I’m currently learning about Spring Batch<br>
 
